@@ -8,7 +8,8 @@ public class Prueba {
 		
 		int a = 3;
 		int b = 8;
-		System.out.println(a+b); //Suma
+		int c = 1;
+		System.out.println(a+b-c);
 	}
 
 }
